@@ -8,7 +8,7 @@ I'm interested in:
 - maths
 - linux user
 
-Currently working on a project int C++ that generates and solves mazes
+Currently working on a project in C++ that generates and solves mazes
 
 You can reach me
 - mail: lukasz.stodolka100@gmail.com
