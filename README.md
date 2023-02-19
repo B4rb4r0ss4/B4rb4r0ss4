@@ -8,4 +8,4 @@ I'm interested in:
 - Maths
 
 You can reach me
-- mail: lukasz.stodolka100gmail.com
+- mail: lukasz.stodolka100@gmail.com
