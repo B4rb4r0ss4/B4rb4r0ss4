@@ -5,7 +5,10 @@ I'm interested in:
 - algorithms and computer science
 - operating systems
 - C++ coding
-- Maths
+- maths
+- linux user
+
+Currently working on a project that generates and solves mazes
 
 You can reach me
 - mail: lukasz.stodolka100@gmail.com
