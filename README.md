@@ -4,11 +4,11 @@ Hi, I'm 18 years old.
 I'm interested in:
 - algorithms and computer science
 - operating systems
-- C++ coding
+- ai
 - maths
 - linux user
 
-Currently working on a project that generates and solves mazes
+Currently working on a project int C++ that generates and solves mazes
 
 You can reach me
 - mail: lukasz.stodolka100@gmail.com
