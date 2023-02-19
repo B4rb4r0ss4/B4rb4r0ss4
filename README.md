@@ -4,4 +4,8 @@ Hi, I'm 18 years old.
 I'm interested in:
 - algorithms and computer science
 - operating systems
-- C++/C coding
+- C++ coding
+- Maths
+
+You can reach me
+- mail: lukasz.stodolka100gmail.com
