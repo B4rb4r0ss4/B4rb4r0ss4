@@ -6,7 +6,7 @@ I'm interested in:
 - operating systems
 - ai
 - maths
-- linux user
+- linux
 
 Currently working on a project in C++ that generates and solves mazes
 
