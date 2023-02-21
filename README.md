@@ -1,8 +1,8 @@
 ![](https://media.giphy.com/media/26FeUjF88goLxusOQ/giphy.gif)
-<p align="center"> 
+
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/B4rb4r0ss4/count.svg" />
-</p>
+
 Hi, I'm 18 years old. 
 I'm interested in:
 - algorithms and computer science
