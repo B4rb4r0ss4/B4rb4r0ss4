@@ -15,4 +15,4 @@ Currently working on a project in C++ that generates and solves mazes
 
 You can reach me
 - mail: lukasz.stodolka100@gmail.com
-- codeforce: https://codeforces.com/profile/b4rb4ross4
+- codeforces: https://codeforces.com/profile/b4rb4ross4
