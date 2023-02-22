@@ -16,3 +16,6 @@ Currently working on a project in C++ that generates and solves mazes
 You can reach me
 - mail: lukasz.stodolka100@gmail.com
 - codeforces: https://codeforces.com/profile/b4rb4ross4
+
+“The world is indeed comic, but the joke is on mankind.”
+― H. P. Lovecraft 
