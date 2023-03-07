@@ -18,4 +18,4 @@ You can reach me
 - codeforces: https://codeforces.com/profile/b4rb4ross4
 
 “The world is indeed comic, but the joke is on mankind.”
-― H. P. Lovecraft 
+― H. P. Lovecraft
