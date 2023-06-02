@@ -3,7 +3,7 @@
   Visitors count:<br>
   <img src="https://profile-counter.glitch.me/B4rb4r0ss4/count.svg" />
 
-Hi, I'm 18 years old. 
+Hi, I'm 19 years old. 
 I'm interested in:
 - algorithms and computer science
 - operating systems
