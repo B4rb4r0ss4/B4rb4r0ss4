@@ -3,15 +3,13 @@
   Visitors count:<br>
   <img src="https://profile-counter.glitch.me/B4rb4r0ss4/count.svg" />
 
-Hi, I'm 19 years old. 
+Hi, I'm a 19-year-old math student at the University of Wrocław. 
 I'm interested in:
+- algebra
+- discrete math
+- calculus 
 - algorithms and computer science
-- operating systems
-- ai
-- maths
 - linux
-
-Currently working on a project in C++ that generates and solves mazes
 
 You can reach me
 - mail: lukasz.stodolka100@gmail.com
